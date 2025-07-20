@@ -95,7 +95,7 @@ utf-8-sig ile kaydederek dosyanın başında BOM (Byte Order Mark) olmamasını 
 
 ## 🧮 Hesaplanan Kolonlar ve Ölçümlerin Bazıları
 
-### 🧾 Calculated Columns:
+### Calculated Columns:
 - **Gün Tipi:** Haftaiçi / Haftasonu ayırımı
 - **Saat Dilimi:** "00:00 - 01:00" biçiminde saat dilimleri
 - **YasGrubu:**  
@@ -106,7 +106,7 @@ utf-8-sig ile kaydederek dosyanın başında BOM (Byte Order Mark) olmamasını 
 
 ---
 
-### 📐 Measures:
+### Measures:
 - Toplam Satış Adeti  
 - Toplam Ciro
 - Toplam Sipariş Sayısı
@@ -120,12 +120,12 @@ utf-8-sig ile kaydederek dosyanın başında BOM (Byte Order Mark) olmamasını 
 
 ## 📊 Rapor Sayfaları ve Görselleştirmeler
 
-### 🟢 Giriş Sayfası
+### Giriş Sayfası
 - Diğer sayfalara geçişi sağlayan butonlar
 
 ![](https://github.com/imku13/patika-data-project/blob/main/images/giris_sayfasi.png)
 
-### 📋 Özet Sayfa
+### Özet Sayfa
 - **Grafikler:**
   - Haftaiçi vs. Haftasonu satış adeti
   - Saatlik satış (00:00–23:00 arası)
@@ -139,7 +139,7 @@ utf-8-sig ile kaydederek dosyanın başında BOM (Byte Order Mark) olmamasını 
 
 ![](https://github.com/imku13/patika-data-project/blob/main/images/ozet_sayfasi.png)
 
-### 👤 Müşteri Perspektifi
+### Müşteri Perspektifi
 - Tekil müşteri sayısı, erkek/kadın oranı
 - Bölgelere göre müşteri dağılımı
 - İstanbul’daki en yüksek ciroya sahip Top 10 müşteri
@@ -147,10 +147,16 @@ utf-8-sig ile kaydederek dosyanın başında BOM (Byte Order Mark) olmamasını 
 
 ![](https://github.com/imku13/patika-data-project/blob/main/images/musteri_sayfasi.png)
 
-### 🛒 Kategori Perspektifi
+### Kategori Perspektifi
 - **TreeMap:** İstanbul’da yaşayan, genç yaş grubundaki müşterilerin kategorilere göre toplam cirosu
 
 ![](https://github.com/imku13/patika-data-project/blob/main/images/kategori_sayfasi.png)
+
+---
+
+## 🧾 PDF Rapor Çıktısı
+
+Şu link üzerinden erişebilirsiniz: [dataproject.pdf](./dataproject.pdf).
 
 ---
 

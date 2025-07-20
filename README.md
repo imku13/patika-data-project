@@ -5,6 +5,8 @@
 ## 🎯 Proje Amacı
 
 Bu proje kapsamında, çok tablodan oluşan bir satış verisi modeli üzerinden:
+- SQL server kullanma ve bu server'a bağlanma
+- Database oluşturma ve bu database'e tablo ekleme
 - Veri modelleme
 - DAX ile ölçü ve kolon oluşturma
 - Power Query ile ön işleme

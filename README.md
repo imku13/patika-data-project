@@ -59,10 +59,13 @@ Model View üzerinde aşağıdaki ilişkiler kuruldu:
 - Power BI ile bu SQL Server üzerinden tabloları çekerek ilerledim.
 - Gereken birkaç yerde Python kullanarak çeşitli düzenlemeler yaptım. (Türkçe karakter düzenlemesi gibi)
 
+  
 ![](https://github.com/imku13/patika-data-project/blob/main/images/docker.png)
 
+  
 ![](https://github.com/imku13/patika-data-project/blob/main/images/ssms.png)
 
+  
 ---
 
 ## 🧼 Power Query Düzenlemeleri
